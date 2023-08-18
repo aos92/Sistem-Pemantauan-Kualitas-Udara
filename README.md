@@ -1,7 +1,7 @@
 # Sistem Pemantauan Kualitas Udara
 
 ## Pendahuluan
-Proyek ini adalah sistem pemantauan kualitas udara yang menggunakan perangkat Arduino dan ESP8266 untuk mengukur tingkat CO2 dan CO dalam udara. Data yang diukur kemudian ditampilkan dalam bentuk grafik pada halaman web yang dapat diakses melalui jaringan WiFi.
+Proyek ini adalah sistem pemantauan kualitas udara yang menggunakan perangkat ESP32 untuk mengukur tingkat CO2 dan CO dalam udara. Data yang diukur kemudian ditampilkan dalam bentuk grafik pada halaman web yang dapat diakses melalui jaringan WiFi.
 
 ## Komponen
 - Arduino atau ESP8266
