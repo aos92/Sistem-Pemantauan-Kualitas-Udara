@@ -4,7 +4,7 @@
 Proyek ini adalah sistem pemantauan kualitas udara yang menggunakan perangkat ESP32 untuk mengukur tingkat CO2 dan CO dalam udara. Data yang diukur kemudian ditampilkan dalam bentuk grafik pada halaman web yang dapat diakses melalui jaringan WiFi.
 
 ## Komponen
-- Arduino atau ESP8266
+- ESP32
 - Modul LCD I2C (LiquidCrystal_I2C)
 - Modul Sensor Gas (MQ-135) untuk CO2
 - Modul Sensor Gas (MQ-7) untuk CO
