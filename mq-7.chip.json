@@ -1,0 +1,21 @@
+{
+  "name": "mq-7",
+  "author": "Asep Oman Somantri",
+    "pins": [
+    "VCC",
+    "OUT",
+    "GND",
+    "",
+    ""
+  ],
+  "controls": [
+   {
+      "id": "adc02",
+      "label": "Nilai Skala ADC",
+      "type": "range",
+      "min": 0,
+      "max": 4096,
+      "step": 1
+    }
+  ]
+}
